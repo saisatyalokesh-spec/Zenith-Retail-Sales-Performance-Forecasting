@@ -1,0 +1,794 @@
+Customer ID,Customer Name,Total_Spend,Total_Orders,Total_Profit,Avg_Order_Value,Spend_Tile,Customer_Segment
+SM-20320,Sean Miller,25043.05,5,-1980.74,1669.54,1,VIP Customer
+TC-20980,Tamara Chand,19052.22,5,8981.32,1587.68,1,VIP Customer
+RB-19360,Raymond Buch,15117.34,6,6976.1,839.85,1,VIP Customer
+TA-21385,Tom Ashbrook,14595.62,4,4703.79,1459.56,1,VIP Customer
+AB-10105,Adrian Barton,14473.57,10,5444.81,723.68,1,VIP Customer
+KL-16645,Ken Lonsdale,14175.23,12,806.86,488.8,1,VIP Customer
+SC-20095,Sanjit Chand,14142.33,9,5757.41,642.83,1,VIP Customer
+HL-15040,Hunter Lopez,12873.3,6,5622.43,1170.3,1,VIP Customer
+SE-20110,Sanjit Engle,12209.44,11,2650.68,642.6,1,VIP Customer
+CC-12370,Christopher Conant,12129.07,5,2177.05,1102.64,1,VIP Customer
+TS-21370,Todd Sumrall,11891.75,6,2371.71,792.78,1,VIP Customer
+GT-14710,Greg Tran,11820.12,11,2163.43,407.59,1,VIP Customer
+BM-11140,Becky Martin,11789.63,4,-1659.96,736.85,1,VIP Customer
+SV-20365,Seth Vernon,11470.95,10,1199.42,358.47,1,VIP Customer
+CJ-12010,Caroline Jumper,11164.97,8,858.74,558.25,1,VIP Customer
+CL-12565,Clay Ludtke,10880.55,12,1933.78,388.59,1,VIP Customer
+ME-17320,Maria Etezadi,10663.73,10,1859.47,484.71,1,VIP Customer
+KF-16285,Karen Ferguson,10604.27,7,1660.14,589.13,1,VIP Customer
+BS-11365,Bill Shonely,10501.65,5,2616.06,1166.85,1,VIP Customer
+EH-13765,Edward Hooks,10310.88,12,1393.52,322.22,1,VIP Customer
+JL-15835,John Lee,9799.92,11,228.91,288.23,1,VIP Customer
+GT-14635,Grant Thornton,9351.21,3,-4108.66,1558.54,1,VIP Customer
+HW-14935,Helen Wasserman,9300.25,8,2164.16,465.01,1,VIP Customer
+TB-21400,Tom Boeckenhauer,9133.99,7,2798.37,537.29,1,VIP Customer
+PF-19120,Peter Fuller,9062.86,4,-614.29,476.99,1,VIP Customer
+CM-12385,Christopher Martinez,8954.02,4,3899.89,895.4,1,VIP Customer
+JD-16150,Justin Deggeller,8828.03,8,1619.52,519.3,1,VIP Customer
+JE-15715,Joe Elijah,8697.84,10,1262.29,395.36,1,VIP Customer
+LA-16780,Laura Armstrong,8673.22,11,2059.12,333.59,1,VIP Customer
+PK-19075,Pete Kriz,8646.93,12,2038.27,345.88,1,VIP Customer
+DR-12940,Daniel Raglin,8350.87,8,2869.08,642.37,1,VIP Customer
+NF-18385,Natalie Fritzler,8322.83,7,-1695.97,594.49,1,VIP Customer
+KD-16270,Karen Daniels,8282.36,5,1107.7,517.65,1,VIP Customer
+NC-18535,Nick Crebassa,8241.74,7,1314.76,549.45,1,VIP Customer
+HM-14860,Harry Marie,8236.76,10,2437.98,411.84,1,VIP Customer
+KD-16495,Keith Dawkins,8181.26,12,3038.63,292.19,1,VIP Customer
+SB-20290,Sean Braxton,8057.89,7,-2082.75,473.99,1,VIP Customer
+ZC-21910,Zuschuss Carroll,8025.71,13,-1032.15,258.89,1,VIP Customer
+JH-15985,Joseph Holt,7955.0,6,-644.7,568.21,1,VIP Customer
+NP-18700,Nora Preis,7903.18,7,631.23,607.94,1,VIP Customer
+AH-10690,Anna HÃ¤berlin,7888.29,12,1298.02,342.97,1,VIP Customer
+AB-10060,Adam Bellavance,7755.62,8,2054.59,430.87,1,VIP Customer
+JE-15610,Jim Epp,7754.98,7,1623.4,387.75,1,VIP Customer
+JW-15220,Jane Waco,7721.71,6,2173.71,551.55,1,VIP Customer
+LC-16885,Lena Creighton,7663.13,12,1288.35,333.18,1,VIP Customer
+JM-15865,John Murray,7625.08,7,1574.62,586.54,1,VIP Customer
+JD-15895,Jonathan Doherty,7610.86,11,1050.27,237.84,1,VIP Customer
+PO-18850,Patrick O'Brill,7473.83,11,38.48,339.72,1,VIP Customer
+MS-17365,Maribeth Schnelling,7443.69,10,844.94,310.15,1,VIP Customer
+RW-19540,Rick Wilson,7397.4,7,1586.63,321.63,1,VIP Customer
+BM-11650,Brian Moss,7294.19,11,2199.28,251.52,1,VIP Customer
+PP-18955,Paul Prost,7252.61,10,1495.09,213.31,1,VIP Customer
+NW-18400,Natalie Webber,7234.01,7,1023.12,328.82,1,VIP Customer
+Dp-13240,Dean percer,7198.76,11,333.36,248.23,1,VIP Customer
+FH-14365,Fred Hopkins,6987.2,8,2050.28,537.48,1,VIP Customer
+RH-19510,Rick Huthwaite,6979.18,6,1289.45,581.6,1,VIP Customer
+PS-19045,Penelope Sewall,6843.63,7,1742.73,526.43,1,VIP Customer
+BB-11545,Brenda Bowman,6765.73,9,1015.08,338.29,1,VIP Customer
+JE-15745,Joel Eaton,6760.82,13,221.8,293.95,1,VIP Customer
+YS-21880,Yana Sorensen,6720.44,8,1778.29,560.04,1,VIP Customer
+AR-10540,Andy Reiter,6608.45,6,2884.62,734.27,1,VIP Customer
+DR-12880,Dan Reichenbach,6528.03,9,1641.86,272.0,1,VIP Customer
+GK-14620,Grace Kelly,6497.27,9,1448.55,464.09,1,VIP Customer
+JA-15970,Joseph Airdo,6491.03,8,-819.42,270.46,1,VIP Customer
+NM-18445,Nathan Mautz,6459.34,7,2751.68,461.38,1,VIP Customer
+VD-21670,Valerie Dominguez,6442.25,6,1617.79,402.64,1,VIP Customer
+SB-20185,Sarah Brown,6411.0,6,885.46,534.25,1,VIP Customer
+JG-15160,James Galang,6366.39,11,1415.67,353.69,1,VIP Customer
+DM-13015,Darrin Martin,6345.1,7,1677.39,317.26,1,VIP Customer
+CM-12655,Corinna Mitchell,6339.56,6,1572.46,633.96,1,VIP Customer
+MJ-17740,Max Jones,6320.75,7,1054.55,421.38,1,VIP Customer
+BH-11710,Brosina Hoffman,6255.35,8,802.79,260.64,1,VIP Customer
+RL-19615,Rob Lucas,6234.91,8,488.15,259.79,1,VIP Customer
+WB-21850,William Brown,6160.1,11,714.33,166.49,1,VIP Customer
+VW-21775,Victoria Wilson,6134.04,10,-874.66,340.78,1,VIP Customer
+SD-20485,Shirley Daniels,6121.11,9,1985.17,291.48,1,VIP Customer
+QJ-19255,Quincy Jones,6108.34,9,1203.68,469.87,1,VIP Customer
+AD-10180,Alan Dominguez,6106.88,8,1869.93,508.91,1,VIP Customer
+CB-12025,Cassandra Brandow,6076.14,10,150.21,233.7,1,VIP Customer
+GM-14695,Greg Maxwell,6049.97,3,188.72,550.0,1,VIP Customer
+SC-20380,Shahid Collister,5992.54,9,236.66,299.63,2,High Value
+KH-16690,Kristen Hastings,5990.8,7,1227.51,399.39,2,High Value
+RM-19675,Robert Marley,5979.1,5,1902.54,543.55,2,High Value
+KH-16510,Keith Herrera,5952.86,7,656.12,258.82,2,High Value
+BF-11170,Ben Ferrer,5907.97,11,1538.21,218.81,2,High Value
+CP-12340,Christine Phan,5888.28,8,-1850.3,392.55,2,High Value
+BD-11320,Bill Donatelli,5718.52,12,1094.5,300.97,2,High Value
+CS-12505,Cindy Stewart,5690.06,6,-6626.39,632.23,2,High Value
+AM-10705,Anne McFarland,5664.02,8,1085.73,257.46,2,High Value
+RB-19795,Ross Baird,5633.32,8,-461.73,312.96,2,High Value
+KM-16375,Katherine Murray,5620.19,8,973.79,281.01,2,High Value
+AA-10315,Alex Avila,5563.56,5,-362.88,505.78,2,High Value
+SM-20950,Suzanne McNair,5563.39,12,581.57,252.88,2,High Value
+NP-18325,Naresj Patel,5529.62,6,1208.89,263.32,2,High Value
+AC-10450,Amy Cox,5527.85,7,1366.01,614.21,2,High Value
+MH-18115,Mick Hernandez,5503.09,9,170.97,250.14,2,High Value
+DP-13390,Dennis Pardue,5480.72,9,1571.83,391.48,2,High Value
+EP-13915,Emily Phan,5478.06,17,144.96,176.71,2,High Value
+YC-21895,Yoseph Carroll,5454.35,5,1305.63,681.79,2,High Value
+SP-20620,Stefania Perrino,5440.32,9,-270.43,226.68,2,High Value
+LW-17215,Luke Weiss,5420.51,7,837.24,361.37,2,High Value
+CP-12085,Cathy Prescott,5402.25,8,427.03,385.88,2,High Value
+TS-21205,Thomas Seio,5371.09,7,862.89,282.69,2,High Value
+TT-21460,Tonja Turnell,5364.81,7,1124.5,383.2,2,High Value
+MW-18220,Mitch Webber,5341.9,7,1238.42,381.56,2,High Value
+TP-21415,Tom Prescott,5329.0,5,-1087.39,532.9,2,High Value
+TW-21025,Tamara Willingham,5278.83,7,737.39,439.9,2,High Value
+DW-13480,Dianna Wilson,5271.63,5,1348.76,479.24,2,High Value
+MW-18235,Mitch Willingham,5253.88,2,1665.52,1751.29,2,High Value
+HR-14830,Harold Ryan,5248.79,7,1196.95,374.91,2,High Value
+SC-20725,Steven Cartwright,5226.21,11,1276.65,201.01,2,High Value
+RP-19390,Resi PÃ¶lking,5153.08,12,465.25,206.12,2,High Value
+LR-16915,Lena Radford,5142.89,6,535.48,321.43,2,High Value
+MP-18175,Mike Pelletier,5087.92,9,226.45,267.79,2,High Value
+AA-10645,Anna Andreadi,5086.94,6,857.8,282.61,2,High Value
+IL-15100,Ivan Liston,5040.74,7,1121.94,360.05,2,High Value
+KL-16555,Kelly Lampkin,5016.49,8,-182.78,228.02,2,High Value
+LB-16795,Laurel Beltran,4985.68,8,-52.19,207.74,2,High Value
+DH-13075,Dave Hallsten,4932.87,6,1193.74,214.47,2,High Value
+IM-15070,Irene Maddox,4930.47,7,514.65,234.78,2,High Value
+TT-21070,Ted Trevino,4915.6,7,751.96,351.11,2,High Value
+KM-16720,Kunst Miller,4909.47,8,745.77,175.34,2,High Value
+PO-19180,Philisse Overcash,4893.04,9,1155.43,271.84,2,High Value
+HK-14890,Heather Kirkland,4877.78,8,956.95,325.19,2,High Value
+AJ-10780,Anthony Jacobs,4867.34,7,150.71,324.49,2,High Value
+JK-15730,Joe Kamberova,4867.2,10,55.05,243.36,2,High Value
+AH-10210,Alan Hwang,4805.34,9,1308.55,369.64,2,High Value
+DK-13225,Dean Katz,4802.39,9,209.9,252.76,2,High Value
+RA-19915,Russell Applegate,4793.54,9,304.87,217.89,2,High Value
+SA-20830,Sue Ann Reed,4767.34,10,610.15,227.02,2,High Value
+JK-15640,Jim Kriz,4760.43,9,1172.53,396.7,2,High Value
+BW-11110,Bart Watters,4750.36,8,921.26,279.43,2,High Value
+TB-21520,Tracy Blumstein,4737.49,9,-1603.05,236.87,2,High Value
+GB-14575,Giulietta Baptist,4716.29,5,1135.84,294.77,2,High Value
+RB-19465,Rick Bensley,4715.47,12,640.55,205.02,2,High Value
+ES-14080,Erin Smith,4657.92,9,246.67,232.9,2,High Value
+DB-13270,Deborah Brumfield,4655.9,8,841.83,358.15,2,High Value
+KT-16480,Kean Thornton,4642.09,10,194.07,357.08,2,High Value
+SC-20050,Sample Company A,4624.57,9,1011.74,308.3,2,High Value
+EM-14140,Eugene Moren,4588.44,6,1319.37,218.5,2,High Value
+DB-13060,Dave Brooks,4531.65,7,473.03,348.59,2,High Value
+AR-10825,Anthony Rawles,4523.34,8,494.84,347.95,2,High Value
+AG-10900,Arthur Gainer,4510.8,10,343.68,214.8,2,High Value
+AJ-10795,Anthony Johnson,4501.39,7,1158.71,214.35,2,High Value
+LC-16930,Linda Cazamias,4492.95,8,288.27,320.92,2,High Value
+SC-20770,Stewart Carmichael,4492.66,7,-671.19,213.94,2,High Value
+TP-21130,Theone Pippenger,4454.06,9,1129.13,278.38,2,High Value
+MC-17425,Mark Cousins,4432.14,5,1802.39,443.21,2,High Value
+JK-15205,Jamie Kunitz,4427.14,5,1219.98,340.55,2,High Value
+KW-16435,Katrina Willman,4416.52,5,1756.14,441.65,2,High Value
+BD-11500,Bradley Drucker,4411.24,6,1142.12,441.12,2,High Value
+AI-10855,Arianne Irving,4375.79,10,867.73,243.1,2,High Value
+SC-20230,Scot Coram,4371.96,4,440.14,397.45,2,High Value
+EB-13840,Ellis Ballard,4358.13,5,656.2,544.77,2,High Value
+GZ-14470,Gary Zandusky,4355.15,9,1087.75,311.08,2,High Value
+SR-20740,Steven Roelle,4345.89,8,1990.42,362.16,2,High Value
+ND-18370,Natalie DeCherney,4326.14,9,353.65,240.34,2,High Value
+MA-17560,Matt Abelman,4299.16,11,1240.23,126.45,2,High Value
+SP-20860,Sung Pak,4282.94,10,566.72,178.46,2,High Value
+DK-12895,Dana Kaydos,4282.18,5,937.65,285.48,2,High Value
+RD-19480,Rick Duston,4272.93,8,480.59,284.86,3,Mid Value
+TC-21295,Toby Carlisle,4266.81,8,606.37,266.68,3,Mid Value
+AS-10225,Alan Schoenberger,4260.78,5,719.78,327.75,3,Mid Value
+FH-14275,Frank Hawley,4256.27,10,1073.27,202.68,3,Mid Value
+CB-12535,Claudia Bergmann,4246.46,8,1049.56,223.5,3,Mid Value
+TH-21550,Tracy Hopkins,4234.1,7,-571.97,325.7,3,Mid Value
+BE-11335,Bill Eplett,4204.68,5,1487.77,467.19,3,Mid Value
+JF-15565,Jill Fjeld,4198.33,8,1073.21,262.4,3,Mid Value
+GH-14425,Gary Hwang,4172.85,4,1176.42,417.28,3,Mid Value
+RS-19765,Roland Schwarz,4159.77,8,1206.39,297.13,3,Mid Value
+MY-18295,Muhammed Yedwab,4152.7,11,-371.71,197.75,3,Mid Value
+PM-19135,Peter McVee,4115.66,4,526.75,587.95,3,Mid Value
+SV-20785,Stewart Visinsky,4105.31,9,485.03,164.21,3,Mid Value
+DM-13345,Denise Monton,4074.47,8,1319.06,313.42,3,Mid Value
+FP-14320,Frank Preis,4046.75,8,406.45,289.05,3,Mid Value
+SP-20920,Susan Pistek,3990.69,6,14.69,285.05,3,Mid Value
+CM-12715,Craig Molinari,3984.45,4,176.31,306.5,3,Mid Value
+MP-17965,Michael Paige,3983.64,9,638.16,199.18,3,Mid Value
+SC-20305,Sean Christensen,3979.07,7,229.16,331.59,3,Mid Value
+SJ-20125,Sanjit Jacobs,3949.66,12,144.12,164.57,3,Mid Value
+LF-17185,Luke Foster,3930.51,7,-3583.98,245.66,3,Mid Value
+PW-19240,Pierre Wener,3922.42,7,1290.35,326.87,3,Mid Value
+GA-14515,George Ashbrook,3919.78,8,840.9,279.98,3,Mid Value
+KH-16630,Ken Heidel,3918.97,9,727.38,230.53,3,Mid Value
+CC-12220,Chris Cortes,3913.42,12,393.96,177.88,3,Mid Value
+DB-13555,Dorothy Badders,3908.8,7,109.33,279.2,3,Mid Value
+NP-18670,Nora Paige,3908.4,5,514.6,390.84,3,Mid Value
+KC-16540,Kelly Collister,3908.26,4,709.42,781.65,3,Mid Value
+FC-14335,Fred Chung,3889.37,7,714.29,388.94,3,Mid Value
+BS-11380,Bill Stewart,3887.83,5,-17.53,299.06,3,Mid Value
+JS-15880,John Stevenson,3868.02,5,564.98,429.78,3,Mid Value
+RA-19885,Ruben Ausman,3832.31,7,1292.87,255.49,3,Mid Value
+AT-10735,Annie Thurman,3831.86,10,974.11,239.49,3,Mid Value
+OT-18730,Olvera Toch,3818.62,5,-925.12,381.86,3,Mid Value
+RO-19780,Rose O'Brian,3815.48,7,-1262.57,317.96,3,Mid Value
+MC-17845,Michael Chen,3805.71,7,698.42,271.84,3,Mid Value
+MM-17920,Michael Moore,3794.08,11,82.13,237.13,3,Mid Value
+CA-11965,Carol Adams,3789.72,6,1143.38,378.97,3,Mid Value
+MG-17650,Matthew Grinstein,3785.28,7,341.9,270.38,3,Mid Value
+MD-17350,Maribeth Dona,3766.38,7,-241.95,221.55,3,Mid Value
+JK-15625,Jim Karlsson,3760.03,7,750.95,313.34,3,Mid Value
+JK-16090,Juliana Krohn,3747.67,3,586.66,416.41,3,Mid Value
+FM-14290,Frank Merwin,3736.2,9,198.11,186.81,3,Mid Value
+SC-20260,Scott Cohen,3729.79,8,671.0,207.21,3,Mid Value
+HG-15025,Hunter Glantz,3690.28,7,804.61,335.48,3,Mid Value
+BP-11185,Ben Peterman,3675.86,9,363.6,204.21,3,Mid Value
+LP-17095,Liz Preis,3653.4,7,338.45,243.56,3,Mid Value
+CS-12400,Christopher Schild,3651.86,9,-342.8,260.85,3,Mid Value
+EB-13705,Ed Braxton,3644.98,9,13.62,303.75,3,Mid Value
+JP-15520,Jeremy Pistek,3635.59,7,757.18,227.22,3,Mid Value
+SZ-20035,Sam Zeldin,3625.33,11,366.43,181.27,3,Mid Value
+RH-19495,Rick Hansen,3621.38,5,563.79,452.67,3,Mid Value
+TB-21175,Thomas Boland,3589.3,4,829.16,326.3,3,Mid Value
+GM-14440,Gary McGarr,3582.82,7,347.27,325.71,3,Mid Value
+DL-13495,Dionis Lloyd,3539.32,8,-52.79,294.94,3,Mid Value
+ES-14020,Erica Smith,3510.46,5,1003.29,438.81,3,Mid Value
+RW-19690,Robert Waldorf,3495.65,5,707.55,233.04,3,Mid Value
+AG-10675,Anna Gayman,3489.04,7,-246.43,232.6,3,Mid Value
+ED-13885,Emily Ducich,3484.92,8,670.44,248.92,3,Mid Value
+PW-19030,Pauline Webber,3454.92,10,803.82,265.76,3,Mid Value
+SF-20200,Sarah Foster,3422.79,9,286.9,228.19,3,Mid Value
+FC-14245,Frank Carlisle,3418.74,7,1217.17,244.2,3,Mid Value
+SH-19975,Sally Hughsby,3406.84,13,558.47,117.48,3,Mid Value
+SG-20080,Sandra Glassco,3406.58,3,570.44,309.69,3,Mid Value
+TS-21655,Trudy Schmidt,3368.09,5,220.92,240.58,3,Mid Value
+SC-20020,Sam Craven,3362.96,5,-317.05,197.82,3,Mid Value
+VP-21760,Victoria Pisteka,3360.53,7,-1018.78,240.04,3,Mid Value
+DJ-13630,Doug Jacobs,3356.4,3,731.56,419.55,3,Mid Value
+DV-13465,Dianna Vittorini,3341.59,6,353.21,222.77,3,Mid Value
+SF-20965,Sylvia Foulston,3336.54,9,539.94,196.27,3,Mid Value
+DC-12850,Dan Campbell,3336.17,9,-1441.63,185.34,3,Mid Value
+AP-10915,Arthur Prichep,3323.56,10,579.31,107.21,3,Mid Value
+DK-13375,Dennis Kane,3318.49,8,377.08,144.28,3,Mid Value
+KH-16330,Katharine Harms,3312.86,8,454.79,184.05,3,Mid Value
+RF-19345,Randy Ferguson,3309.15,8,633.71,206.82,3,Mid Value
+RR-19525,Rick Reed,3302.26,6,721.68,330.23,3,Mid Value
+BD-11605,Brian Dahlen,3288.47,7,634.85,164.42,3,Mid Value
+BS-11665,Brian Stugart,3288.11,3,238.74,298.92,3,Mid Value
+RW-19630,Rob Williams,3279.75,9,698.83,204.98,3,Mid Value
+DL-12925,Daniel Lacy,3272.2,6,4.21,233.73,3,Mid Value
+DK-12835,Damala Kotsonis,3256.48,12,881.12,120.61,4,Regular
+AS-10090,Adam Shillingsburg,3255.31,9,64.54,130.21,4,Regular
+JO-15145,Jack O'Briant,3254.95,9,581.4,250.38,4,Regular
+AH-10075,Adam Hart,3250.34,10,281.19,162.52,4,Regular
+HG-14965,Henry Goldwyn,3247.64,12,-2797.96,191.04,4,Regular
+LC-16960,Lindsay Castell,3246.63,4,299.48,463.8,4,Regular
+CT-11995,Carol Triggs,3241.9,8,161.23,180.11,4,Regular
+EB-13750,Edward Becker,3236.31,10,-80.29,161.82,4,Regular
+SR-20425,Sharelle Roach,3233.48,5,-3333.91,359.28,4,Regular
+LW-16990,Lindsay Williams,3230.31,6,662.83,293.66,4,Regular
+RS-19420,Ricardo Sperren,3221.29,5,633.45,357.92,4,Regular
+AS-10285,Alejandro Savely,3214.24,6,354.63,401.78,4,Regular
+MP-17470,Mark Packer,3206.13,7,600.29,229.01,4,Regular
+CS-12355,Christine Sundaresam,3202.16,11,831.94,145.55,4,Regular
+BT-11680,Brian Thompson,3196.75,7,447.75,159.84,4,Regular
+DG-13300,Deirdre Greer,3195.82,5,562.78,399.48,4,Regular
+JL-15505,Jeremy Lonsdale,3173.87,6,591.72,186.7,4,Regular
+GM-14680,Greg Matthias,3163.63,6,35.49,287.6,4,Regular
+JM-15250,Janet Martin,3159.12,6,19.82,166.27,4,Regular
+CK-12205,Chloris Kastensmidt,3154.86,13,141.28,98.59,4,Regular
+KB-16240,Karen Bern,3152.62,7,763.91,315.26,4,Regular
+MS-17770,Maxwell Schwartz,3144.68,9,280.86,165.51,4,Regular
+RD-19900,Ruben Dartt,3133.92,9,455.53,149.23,4,Regular
+TN-21040,Tanja Norvell,3130.22,7,-692.05,260.85,4,Regular
+SN-20710,Steve Nguyen,3127.96,7,481.75,164.63,4,Regular
+SG-20605,Speros Goranitis,3124.83,6,463.27,240.37,4,Regular
+KH-16360,Katherine Hughes,3100.61,6,528.21,221.47,4,Regular
+PG-18820,Patrick Gardner,3086.91,13,137.46,118.73,4,Regular
+EH-14125,Eugene Hildebrand,3082.65,10,96.27,171.26,4,Regular
+GM-14455,Gary Mitchum,3078.62,6,793.28,256.55,4,Regular
+EB-14110,Eugene Barchas,3071.13,6,184.77,279.19,4,Regular
+MG-18145,Mike Gockenbach,3061.54,4,-93.6,382.69,4,Regular
+TG-21310,Toby Gnade,3058.37,5,682.17,339.82,4,Regular
+KT-16465,Kean Takahito,3057.1,7,254.0,218.36,4,Regular
+SS-20410,Shahid Shariari,3056.81,6,-1010.97,254.73,4,Regular
+SL-20155,Sara Luxemburg,3053.01,7,527.97,339.22,4,Regular
+AS-10045,Aaron Smayling,3050.69,7,-253.57,305.07,4,Regular
+CA-12775,Cynthia Arntzen,3041.57,7,204.49,178.92,4,Regular
+CS-11950,Carlos Soltero,3036.55,11,-126.42,138.02,4,Regular
+LS-16975,Lindsay Shagiari,2988.67,9,262.64,135.85,4,Regular
+MH-18025,Michelle Huthwaite,2984.95,5,476.9,298.49,4,Regular
+FA-14230,Frank Atkinson,2984.05,7,520.52,175.53,4,Regular
+DB-13120,David Bremer,2973.09,7,-1421.77,212.36,4,Regular
+NS-18640,Noel Staavos,2964.82,13,-234.77,114.03,4,Regular
+TM-21010,Tamara Manning,2955.23,8,573.3,155.54,4,Regular
+CK-12325,Christine Kargatis,2945.32,5,261.22,245.44,4,Regular
+TH-21115,Thea Hudgings,2942.77,4,-252.55,326.97,4,Regular
+LT-17110,Liz Thompson,2936.25,8,320.97,209.73,4,Regular
+BC-11125,Becky Castell,2933.68,9,251.6,162.98,4,Regular
+JK-16120,Julie Kriz,2932.48,10,122.66,172.5,4,Regular
+SW-20455,Shaun Weien,2921.54,7,793.65,324.62,4,Regular
+ML-17410,Maris LaWare,2921.5,6,-76.18,194.77,4,Regular
+RD-19585,Rob Dowd,2912.89,10,734.52,153.31,4,Regular
+CY-12745,Craig Yedwab,2900.03,8,60.65,263.64,4,Regular
+ND-18460,Neil Ducich,2893.46,6,443.34,361.68,4,Regular
+MT-17815,Meg Tillman,2890.14,6,509.01,289.01,4,Regular
+BF-11020,Barry FranzÃ¶sisch,2888.51,8,302.02,137.55,4,Regular
+DS-13180,David Smith,2881.81,9,163.7,144.09,4,Regular
+PV-18985,Paul Van Hugh,2876.05,5,434.53,221.23,4,Regular
+IM-15055,Ionia McGrath,2872.63,3,975.77,718.16,4,Regular
+CC-12430,Chuck Clark,2870.05,10,424.66,151.06,4,Regular
+CC-12685,Craig Carroll,2854.12,4,850.16,237.84,4,Regular
+AW-10930,Arthur Wiediger,2852.97,7,-104.55,178.31,4,Regular
+EA-14035,Erin Ashbrook,2846.71,13,-52.74,113.87,4,Regular
+LS-16945,Linda Southworth,2845.27,6,-318.77,203.23,4,Regular
+DB-12970,Darren Budd,2839.23,5,213.0,202.8,4,Regular
+JM-16195,Justin MacKendrick,2833.93,10,754.11,149.15,4,Regular
+CV-12295,Christina VanderZanden,2830.63,5,493.09,217.74,4,Regular
+TS-21610,Troy Staebel,2820.42,7,-294.7,256.4,4,Regular
+GH-14410,Gary Hansen,2819.47,9,-576.83,165.85,4,Regular
+BG-11035,Barry Gonzalez,2798.95,8,-711.43,233.25,4,Regular
+TB-21625,Trudy Brown,2797.67,9,379.88,186.51,4,Regular
+RD-19660,Robert Dilbeck,2786.63,5,835.77,557.33,4,Regular
+JC-15775,John Castell,2772.06,9,279.57,173.25,4,Regular
+PF-19165,Philip Fox,2770.0,6,196.87,277.0,4,Regular
+EB-13870,Emily Burns,2767.22,10,261.53,251.57,4,Regular
+CS-12250,Chris Selesnick,2754.22,12,738.36,98.36,4,Regular
+MM-18055,Michelle Moray,2749.88,8,-520.34,144.73,4,Regular
+KB-16585,Ken Black,2744.74,12,579.36,119.34,4,Regular
+LL-16840,Lauren Leatherbury,2741.2,6,560.01,228.43,5,Regular
+MC-17275,Marc Crier,2725.98,8,461.0,209.69,5,Regular
+JL-15850,John Lucas,2725.26,6,779.9,247.75,5,Regular
+ML-17395,Marina Lichtenstein,2722.84,9,684.92,136.14,5,Regular
+JK-15370,Jay Kimmel,2709.63,8,330.28,159.39,5,Regular
+JE-16165,Justin Ellison,2697.25,3,789.65,385.32,5,Regular
+BT-11530,Bradley Talbott,2684.49,5,409.5,268.45,5,Regular
+BO-11350,Bill Overfelt,2682.73,5,278.78,223.56,5,Regular
+FO-14305,Frank Olsen,2678.44,10,215.6,178.56,5,Regular
+NH-18610,Nicole Hansen,2673.29,7,760.17,243.03,5,Regular
+RB-19435,Richard Bierner,2663.09,8,477.24,166.44,5,Regular
+EJ-14155,Eva Jacobs,2656.69,5,451.88,332.09,5,Regular
+DK-13090,Dave Kipp,2650.56,7,536.39,203.89,5,Regular
+CA-12265,Christina Anderson,2648.29,9,279.62,155.78,5,Regular
+LC-17140,Logan Currie,2633.58,9,231.13,138.61,5,Regular
+RA-19285,Ralph Arnett,2617.91,9,546.09,153.99,5,Regular
+KN-16390,Katherine Nockton,2617.27,9,-151.15,153.96,5,Regular
+SO-20335,Sean O'Donnell,2602.58,6,-81.09,173.51,5,Regular
+SU-20665,Stephanie Ulpright,2595.36,7,763.47,144.19,5,Regular
+HA-14920,Helen Andreada,2584.16,8,99.14,143.56,5,Regular
+AG-10270,Alejandro Grove,2582.9,5,732.74,184.49,5,Regular
+LC-16870,Lena Cacioppo,2580.7,8,-188.25,86.02,5,Regular
+SC-20695,Steve Chapman,2576.41,10,611.83,184.03,5,Regular
+NS-18505,Neola Schneider,2575.86,4,-12.3,171.72,5,Regular
+BT-11305,Beth Thompson,2567.66,5,417.59,285.3,5,Regular
+EM-13810,Eleni McCrary,2567.01,5,-133.83,366.72,5,Regular
+MZ-17515,Mary Zewe,2564.91,6,787.75,256.49,5,Regular
+BS-11755,Bruce Stewart,2562.38,7,-113.3,183.03,5,Regular
+DE-13255,Deanra Eno,2550.87,5,464.47,283.43,5,Regular
+CC-12610,Corey Catlett,2540.63,7,331.43,211.72,5,Regular
+AC-10615,Ann Chong,2537.69,5,298.83,140.98,5,Regular
+CM-12160,Charles McCrossin,2533.31,6,-394.37,361.9,5,Regular
+HF-14995,Herbert Flentye,2533.16,7,-13.88,133.32,5,Regular
+FM-14380,Fred McMath,2523.27,9,191.49,180.23,5,Regular
+JB-16045,Julia Barnett,2518.12,5,201.52,279.79,5,Regular
+JS-16030,Joy Smith,2516.49,6,-311.26,139.81,5,Regular
+DJ-13510,Don Jones,2501.69,8,345.25,192.44,5,Regular
+AH-10465,Amy Hunt,2495.39,5,-196.12,311.92,5,Regular
+PO-18865,Patrick O'Donnell,2493.21,7,437.85,191.79,5,Regular
+NZ-18565,Nick Zandusky,2488.31,9,402.42,124.42,5,Regular
+MN-17935,Michael Nguyen,2477.95,6,290.82,247.79,5,Regular
+BP-11290,Beth Paige,2475.16,7,-319.06,154.7,5,Regular
+CC-12145,Charles Crestani,2471.65,7,392.28,224.7,5,Regular
+NC-18340,Nat Carroll,2461.4,5,580.31,144.79,5,Regular
+FM-14215,Filia McAdams,2456.64,10,249.68,163.78,5,Regular
+MH-17455,Mark Hamilton,2456.18,8,484.77,223.29,5,Regular
+BS-11590,Brendan Sweed,2454.93,6,381.78,245.49,5,Regular
+VM-21685,Valerie Mitchum,2454.87,7,513.53,204.57,5,Regular
+GZ-14545,George Zrebassa,2454.62,4,828.66,490.92,5,Regular
+MA-17995,Michelle Arnett,2453.28,6,280.78,204.44,5,Regular
+BP-11095,Bart Pistole,2442.04,12,433.98,122.1,5,Regular
+MC-17590,Matt Collister,2426.07,6,288.98,142.71,5,Regular
+TH-21100,Thea Hendricks,2422.82,5,-135.21,346.12,5,Regular
+MH-17290,Marc Harrigan,2394.03,6,28.76,184.16,5,Regular
+DF-13135,David Flashing,2390.53,3,-259.31,398.42,5,Regular
+XP-21865,Xylona Preis,2374.66,11,621.23,84.81,5,Regular
+CK-12595,Clytie Kelty,2372.75,11,497.71,94.91,5,Regular
+JF-15415,Jennifer Ferguson,2371.45,6,635.64,169.39,5,Regular
+CV-12805,Cynthia Voltz,2370.31,9,99.0,124.75,5,Regular
+NR-18550,Nick Radford,2367.28,5,-25.15,182.1,5,Regular
+JG-15115,Jack Garza,2358.68,3,684.19,336.95,5,Regular
+AG-10495,Andrew Gjertsen,2356.86,8,295.67,112.23,5,Regular
+CL-12700,Craig Leslie,2353.59,5,229.01,294.2,5,Regular
+MG-17680,Maureen Gastineau,2350.19,4,25.89,235.02,5,Regular
+RF-19735,Roland Fjeld,2341.3,7,711.62,167.24,5,Regular
+EM-13825,Elizabeth Moffitt,2339.6,8,682.55,146.22,5,Regular
+DB-13210,Dean Braden,2332.58,10,169.97,111.08,5,Regular
+CM-12235,Chris McAfee,2305.71,5,365.04,288.21,5,Regular
+MK-17905,Michael Kennedy,2302.37,8,-405.36,135.43,5,Regular
+LH-16900,Lena Hernandez,2295.33,9,526.07,153.02,5,Regular
+KN-16705,Kristina Nunn,2280.58,8,329.76,152.04,5,Regular
+JF-15190,Jamie Frazer,2279.59,7,575.13,119.98,5,Regular
+FH-14350,Fred Harton,2271.28,4,706.29,162.23,5,Regular
+CC-12670,Craig Carreira,2269.7,7,187.84,162.12,5,Regular
+BE-11410,Bobby Elias,2261.44,5,755.92,452.29,5,Regular
+KM-16225,Kalyca Meade,2260.96,6,635.11,119.0,5,Regular
+MC-17605,Matt Connell,2258.19,8,195.45,125.46,5,Regular
+JH-16180,Justin Hirsh,2256.39,4,-96.95,451.28,5,Regular
+MY-17380,Maribeth Yedwab,2254.29,7,319.12,173.41,5,Regular
+KD-16615,Ken Dana,2243.51,5,539.72,172.58,6,Regular
+TS-21505,Tony Sayre,2243.27,6,11.38,160.23,6,Regular
+JG-15310,Jason Gross,2240.58,6,3.8,203.69,6,Regular
+LW-16825,Laurel Workman,2238.06,5,32.58,149.2,6,Regular
+AR-10405,Allen Rosenblatt,2236.13,5,-98.76,319.45,6,Regular
+GG-14650,Greg Guthrie,2224.0,9,12.7,92.67,6,Regular
+NC-18415,Nathan Cano,2218.99,6,-2204.81,158.5,6,Regular
+MC-18100,Mick Crebagga,2218.98,10,-64.17,116.79,6,Regular
+DP-13105,Dave Poirier,2215.0,8,563.18,158.21,6,Regular
+PF-19225,Phillip Flathmann,2206.13,5,591.31,220.61,6,Regular
+MH-17785,Maya Herman,2203.78,7,238.56,200.34,6,Regular
+JL-15235,Janet Lee,2203.7,5,54.52,220.37,6,Regular
+JR-16210,Justin Ritter,2201.69,5,452.37,220.17,6,Regular
+EN-13780,Edward Nazzal,2199.37,4,496.11,244.37,6,Regular
+TB-21280,Toby Braunhardt,2198.45,6,490.96,199.86,6,Regular
+GW-14605,Giulietta Weimer,2189.02,7,-268.54,243.22,6,Regular
+BT-11395,Bill Tyler,2186.61,6,257.92,218.66,6,Regular
+PS-18760,Pamela Stobb,2181.48,6,-134.44,103.88,6,Regular
+SH-20395,Shahid Hopkins,2180.72,10,-144.52,145.38,6,Regular
+KN-16450,Kean Nguyen,2171.96,5,114.31,271.5,6,Regular
+DB-12910,Daniel Byrd,2171.6,8,431.37,180.97,6,Regular
+RP-19855,Roy Phan,2170.72,8,594.59,144.71,6,Regular
+TS-21160,Theresa Swint,2163.62,6,260.87,127.27,6,Regular
+HA-14905,Helen Abelman,2163.3,7,270.86,216.33,6,Regular
+EJ-13720,Ed Jacobs,2162.17,4,387.02,270.27,6,Regular
+NM-18520,Neoma Murray,2161.98,10,788.95,144.13,6,Regular
+JD-15790,John Dryer,2152.35,5,-266.55,307.48,6,Regular
+CR-12580,Clay Rozendal,2148.85,4,74.4,358.14,6,Regular
+DN-13690,Duane Noonan,2139.79,7,540.54,194.53,6,Regular
+KC-16255,Karen Carlisle,2120.95,6,846.12,212.1,6,Regular
+SH-20635,Stefanie Holloman,2096.39,2,260.63,1048.2,6,Regular
+LC-17050,Liz Carlisle,2095.06,5,86.78,232.78,6,Regular
+RH-19600,Rob Haberlin,2085.74,3,172.63,189.61,6,Regular
+TG-21640,Trudy Glocke,2074.66,4,365.72,207.47,6,Regular
+ML-17755,Max Ludwig,2071.91,7,409.51,159.38,6,Regular
+RB-19705,Roger Barcio,2067.45,4,243.08,295.35,6,Regular
+TS-21430,Tom Stivers,2054.14,5,48.7,293.45,6,Regular
+AF-10870,Art Ferguson,2052.91,7,317.97,128.31,6,Regular
+CD-11920,Carlos Daly,2033.97,5,426.66,226.0,6,Regular
+NF-18595,Nicole Fjeld,2031.47,7,388.21,169.29,6,Regular
+DJ-13420,Denny Joy,2012.52,4,483.04,402.5,6,Regular
+VB-21745,Victoria Brennan,2005.6,6,371.24,200.56,6,Regular
+HP-14815,Harold Pawlan,1990.31,7,373.86,199.03,6,Regular
+DB-13615,Doug Bickford,1989.05,7,438.8,180.82,6,Regular
+PG-18895,Paul Gonzalez,1987.16,9,334.52,116.89,6,Regular
+NB-18655,Nona Balk,1972.6,9,117.64,116.04,6,Regular
+SW-20275,Scott Williamson,1966.65,6,332.87,280.95,6,Regular
+LD-17005,Lisa DeCherney,1961.93,4,557.17,280.28,6,Regular
+CB-12415,Christy Brittain,1949.2,8,272.39,162.43,6,Regular
+TP-21565,Tracy Poddar,1936.64,4,139.23,193.66,6,Regular
+JO-15280,Jas O'Carroll,1934.27,6,202.14,175.84,6,Regular
+JF-15355,Jay Fein,1911.84,6,330.2,119.49,6,Regular
+ME-17725,Max Engle,1908.45,8,77.81,146.8,6,Regular
+SV-20935,Susan Vittorini,1903.49,8,106.89,146.42,6,Regular
+KD-16345,Katherine Ducich,1888.96,6,328.59,188.9,6,Regular
+GD-14590,Giulietta Dortch,1888.07,4,230.94,314.68,6,Regular
+SG-20470,Sheri Gordon,1884.8,8,-119.01,134.63,6,Regular
+LR-17035,Lisa Ryan,1879.31,5,-382.81,156.61,6,Regular
+SC-20440,Shaun Chance,1875.0,7,379.56,187.5,6,Regular
+BG-11695,Brooke Gillingham,1874.17,6,107.57,234.27,6,Regular
+SP-20650,Stephanie Phelps,1872.44,9,268.48,124.83,6,Regular
+NG-18355,Nat Gilpin,1869.58,5,313.63,116.85,6,Regular
+CD-12790,Cynthia Delaney,1860.73,5,403.84,124.05,6,Regular
+SN-20560,Skye Norling,1860.42,6,-716.86,124.03,6,Regular
+PR-18880,Patrick Ryan,1840.18,5,247.62,153.35,6,Regular
+AJ-10945,Ashley Jarboe,1839.24,7,521.14,183.92,6,Regular
+PC-18745,Pamela Coakley,1832.06,4,272.69,366.41,6,Regular
+EG-13900,Emily Grady,1832.02,5,104.27,203.56,6,Regular
+PJ-19015,Pauline Johnson,1824.23,7,683.0,182.42,6,Regular
+NC-18625,Noah Childs,1821.74,5,-359.02,202.42,6,Regular
+JM-15265,Janet Molinari,1804.15,5,502.61,138.78,6,Regular
+JB-15400,Jennifer Braxton,1791.61,10,156.05,111.98,6,Regular
+AA-10480,Andrew Allen,1790.51,4,435.83,149.21,6,Regular
+CC-12100,Chad Cunningham,1770.95,6,208.59,136.23,6,Regular
+DS-13030,Darrin Sayre,1762.21,4,193.33,92.75,6,Regular
+MF-18250,Monica Federle,1758.3,5,456.86,146.53,6,Regular
+AH-10030,Aaron Hawkins,1744.7,7,365.22,158.61,6,Regular
+LH-17155,Logan Haushalter,1739.69,9,316.52,91.56,6,Regular
+BW-11200,Ben Wallace,1738.41,6,247.0,173.84,6,Regular
+VT-21700,Valerie Takahito,1736.6,2,-224.09,192.96,7,Regular
+AH-10120,Adrian Hane,1735.51,7,-2.31,108.47,7,Regular
+MV-18190,Mike Vittorini,1734.57,7,273.86,157.69,7,Regular
+JM-15535,Jessica Myrick,1733.44,7,356.54,173.34,7,Regular
+BE-11455,Brad Eason,1727.65,6,139.2,132.9,7,Regular
+DB-13405,Denny Blanton,1711.69,4,438.91,122.26,7,Regular
+JP-16135,Julie Prescott,1707.71,9,309.71,131.36,7,Regular
+TZ-21580,Tracy Zic,1707.29,4,224.89,189.7,7,Regular
+BP-11155,Becky Pak,1697.86,6,647.38,154.35,7,Regular
+DK-12985,Darren Koutras,1687.04,5,-107.35,210.88,7,Regular
+MO-17800,Meg O'Connel,1687.03,8,169.34,153.37,7,Regular
+RA-19945,Ryan Akin,1686.92,5,-445.7,187.44,7,Regular
+KE-16420,Katrina Edelman,1686.73,8,397.88,112.45,7,Regular
+CA-12055,Cathy Armstrong,1679.72,5,211.26,167.97,7,Regular
+CM-11815,Candace McMahon,1673.89,6,214.46,167.39,7,Regular
+JP-15460,Jennifer Patt,1669.14,7,429.75,111.28,7,Regular
+CM-12115,Chad McGuire,1661.61,4,409.07,237.37,7,Regular
+CC-12475,Cindy Chapman,1659.44,9,154.85,127.65,7,Regular
+EB-13975,Erica Bern,1643.26,4,162.88,273.88,7,Regular
+AP-10720,Anne Pryor,1638.55,8,285.79,86.24,7,Regular
+AZ-10750,Annie Zypern,1622.02,6,154.95,135.17,7,Regular
+MS-17710,Maurice Satty,1613.4,6,247.43,107.56,7,Regular
+TB-21250,Tim Brockman,1602.38,7,260.62,84.34,7,Regular
+CR-12730,Craig Reiter,1600.55,4,306.92,266.76,7,Regular
+AH-10195,Alan Haines,1587.45,4,-378.55,198.43,7,Regular
+BF-11215,Benjamin Farhat,1585.16,4,523.21,198.15,7,Regular
+CK-12760,Cyma Kinney,1582.11,9,-338.43,113.01,7,Regular
+MC-18130,Mike Caudle,1582.0,5,121.76,143.82,7,Regular
+JL-15175,James Lanier,1571.52,5,209.28,224.5,7,Regular
+KB-16315,Karl Braun,1569.46,9,49.72,71.34,7,Regular
+GB-14530,George Bell,1568.44,11,7.84,78.42,7,Regular
+ON-18715,Odella Nelson,1567.52,9,-5.89,104.5,7,Regular
+MV-17485,Mark Van Huff,1560.05,9,189.03,104.0,7,Regular
+MB-17305,Maria Bertelson,1548.7,10,212.43,81.51,7,Regular
+BD-11620,Brian DeCherney,1538.11,6,206.76,192.26,7,Regular
+CH-12070,Cathy Hwang,1537.24,3,195.15,384.31,7,Regular
+BD-11725,Bruce Degenhardt,1526.5,6,333.98,152.65,7,Regular
+BV-11245,Benjamin Venier,1523.27,5,315.22,108.81,7,Regular
+KA-16525,Kelly Andreada,1519.51,7,234.92,138.14,7,Regular
+AB-10600,Ann Blume,1515.86,4,-274.96,189.48,7,Regular
+JG-15805,John Grady,1507.02,6,206.1,167.45,7,Regular
+DL-12865,Dan Lawera,1503.11,8,322.24,107.37,7,Regular
+ZD-21925,Zuschuss Donatelli,1493.94,5,249.13,165.99,7,Regular
+CM-12190,Charlotte Melton,1475.14,6,91.2,210.73,7,Regular
+LE-16810,Laurel Elliston,1469.45,6,161.76,163.27,7,Regular
+TB-21055,Ted Butterfield,1467.88,5,390.21,81.55,7,Regular
+PN-18775,Parhena Norris,1467.15,8,192.04,112.86,7,Regular
+RK-19300,Ralph Kennedy,1460.19,3,269.69,182.52,7,Regular
+BN-11515,Bradley Nguyen,1459.34,5,340.71,85.84,7,Regular
+DL-13315,Delfina Latchford,1458.26,8,288.87,85.78,7,Regular
+PB-19150,Philip Brown,1456.95,8,280.66,132.45,7,Regular
+AG-10525,Andy Gerbode,1455.04,4,-152.76,161.67,7,Regular
+RM-19375,Raymond Messe,1453.47,6,392.15,161.5,7,Regular
+PK-18910,Paul Knutson,1441.15,2,-798.71,480.38,7,Regular
+TD-20995,Tamara Dahlen,1434.55,9,88.19,89.66,7,Regular
+JW-16075,Julia West,1428.73,4,154.06,204.1,7,Regular
+MB-18085,Mick Brown,1428.23,7,117.81,142.82,7,Regular
+TT-21220,Thomas Thornton,1427.04,8,278.74,95.14,7,Regular
+CA-12310,Christine Abelman,1421.95,4,246.02,129.27,7,Regular
+RD-19720,Roger Demir,1419.74,10,207.33,70.99,7,Regular
+NL-18310,Nancy Lomonaco,1418.09,4,343.64,141.81,7,Regular
+JS-15595,Jill Stevenson,1417.65,4,-175.55,177.21,7,Regular
+PM-18940,Paul MacIntyre,1405.4,3,157.88,351.35,7,Regular
+GA-14725,Guy Armstrong,1398.38,11,136.71,63.56,7,Regular
+CR-12820,Cyra Reiten,1397.87,3,83.27,199.7,7,Regular
+NG-18430,Nathan Gelder,1395.94,5,217.09,155.1,7,Regular
+JE-15475,Jeremy Ellison,1388.68,6,276.22,106.82,7,Regular
+TB-21595,Troy Blackwell,1387.56,5,-136.41,198.22,7,Regular
+FG-14260,Frank Gastineau,1383.14,7,394.74,125.74,7,Regular
+DM-13525,Don Miller,1376.79,3,199.77,137.68,7,Regular
+GH-14485,Gene Hale,1361.24,2,-95.45,453.75,7,Regular
+SB-20170,Sarah Bern,1348.02,3,157.67,192.57,7,Regular
+LM-17065,Liz MacKendrick,1346.77,5,-44.88,192.4,7,Regular
+MG-17695,Maureen Gnade,1342.28,3,-398.79,191.75,7,Regular
+SJ-20215,Sarah Jordon,1341.04,6,-23.51,134.1,7,Regular
+BM-11785,Bryan Mills,1338.84,10,137.74,95.63,7,Regular
+BF-11005,Barry Franz,1333.88,4,-291.38,133.39,7,Regular
+SS-20140,Saphhira Shifley,1324.03,8,332.35,63.05,7,Regular
+DM-12955,Dario Medina,1322.03,7,108.76,146.89,7,Regular
+MT-18070,Michelle Tran,1319.45,4,-23.68,119.95,8,Regular
+SJ-20500,Shirley Jackson,1318.78,5,68.1,188.4,8,Regular
+MM-17260,Magdelene Morse,1314.02,4,178.4,219.0,8,Regular
+SP-20545,Sibella Parks,1306.09,6,-118.78,130.61,8,Regular
+MC-17575,Matt Collins,1303.89,8,210.75,118.54,8,Regular
+EK-13795,Eileen Kiefer,1303.48,4,97.11,325.87,8,Regular
+Co-12640,Corey-Lock,1300.08,5,205.63,162.51,8,Regular
+DO-13435,Denny Ordway,1300.03,9,-38.91,100.0,8,Regular
+HR-14770,Hallie Redmond,1299.29,5,185.58,99.95,8,Regular
+GR-14560,Georgia Rosenberg,1284.38,2,359.83,256.88,8,Regular
+CS-11845,Cari Sayre,1278.95,5,185.38,159.87,8,Regular
+PS-18970,Paul Stevenson,1278.64,8,198.51,98.36,8,Regular
+SV-20815,Stuart Van,1271.09,4,199.65,211.85,8,Regular
+DO-13645,Doug O'Connell,1267.32,7,294.07,115.21,8,Regular
+CL-11890,Carl Ludwig,1262.01,4,328.08,180.29,8,Regular
+LW-17125,Liz Willingham,1259.04,3,192.63,251.81,8,Regular
+ME-18010,Michelle Ellison,1256.94,4,107.36,209.49,8,Regular
+GM-14500,Gene McClure,1255.68,10,441.32,96.59,8,Regular
+SC-20680,Steve Carroll,1254.64,6,370.16,156.83,8,Regular
+MH-17620,Matt Hagelstein,1252.8,4,122.36,208.8,8,Regular
+ER-13855,Elpida Rittenbach,1245.79,3,-295.74,249.16,8,Regular
+TC-21475,Tony Chapman,1244.98,9,119.1,113.18,8,Regular
+JW-15955,Joni Wasserman,1244.09,7,-29.58,113.1,8,Regular
+MG-17875,Michael Grace,1242.83,5,-470.77,177.55,8,Regular
+NP-18685,Nora Pelletier,1228.7,6,514.5,175.53,8,Regular
+PJ-18835,Patrick Jones,1220.09,8,442.14,93.85,8,Regular
+EH-14005,Erica Hernandez,1219.53,7,-94.14,110.87,8,Regular
+JL-15130,Jack Lebron,1214.96,6,-207.8,101.25,8,Regular
+CD-12280,Christina DeMoss,1205.58,2,233.03,92.74,8,Regular
+MD-17860,Michael Dominguez,1204.91,5,-4.04,150.61,8,Regular
+DW-13585,Dorothy Wardle,1204.85,7,-266.9,120.49,8,Regular
+EB-14170,Evan Bailliet,1186.33,6,282.17,169.48,8,Regular
+BP-11230,Benjamin Patterson,1181.49,5,-197.27,196.92,8,Regular
+DC-13285,Debra Catini,1174.62,5,132.07,167.8,8,Regular
+AT-10435,Alyssa Tate,1171.81,6,100.88,130.2,8,Regular
+JR-15670,Jim Radford,1156.66,2,-785.16,385.55,8,Regular
+DB-13660,Duane Benoit,1155.2,7,177.67,115.52,8,Regular
+CG-12520,Claire Gute,1148.78,3,169.93,229.76,8,Regular
+KC-16675,Kimberly Carter,1146.05,4,156.78,163.72,8,Regular
+RD-19810,Ross DeVincentis,1137.62,8,318.46,71.1,8,Regular
+CW-11905,Carl Weiss,1136.59,6,370.83,103.33,8,Regular
+JS-15685,Jim Sink,1131.06,4,-54.87,102.82,8,Regular
+DV-13045,Darrin Van Huff,1119.48,5,-427.18,124.39,8,Regular
+AB-10165,Alan Barnes,1113.84,8,220.81,79.56,8,Regular
+TM-21490,Tony Molinari,1094.68,3,292.52,273.67,8,Regular
+JO-15550,Jesus Ocampo,1090.84,5,167.67,99.17,8,Regular
+SW-20245,Scot Wooten,1085.08,7,-19.61,108.51,8,Regular
+JF-15490,Jeremy Farry,1082.92,11,-18.07,72.19,8,Regular
+DB-13360,Dennis Bolton,1081.47,5,291.01,180.24,8,Regular
+DW-13195,David Wiener,1080.75,6,-86.87,120.08,8,Regular
+CS-12490,Cindy Schnelling,1077.23,4,-302.88,119.69,8,Regular
+PC-19000,Pauline Chand,1061.49,2,-184.34,353.83,8,Regular
+DP-13165,David Philippe,1058.62,2,-40.94,264.65,8,Regular
+JC-15385,Jenna Caffey,1058.11,1,502.92,264.53,8,Regular
+PO-19195,Phillina Ober,1056.86,5,-49.7,105.69,8,Regular
+AA-10375,Allen Armold,1056.39,9,277.38,70.43,8,Regular
+VS-21820,Vivek Sundaresam,1055.98,4,-262.81,132.0,8,Regular
+AR-10345,Alex Russell,1055.69,4,-221.05,211.14,8,Regular
+DP-13000,Darren Powers,1050.64,9,241.45,61.8,8,Regular
+DH-13675,Duane Huffman,1043.1,4,116.67,94.83,8,Regular
+SM-20905,Susan MacKendrick,1043.04,1,-237.29,173.84,8,Regular
+EM-14095,Eudokia Martin,1041.04,4,240.24,104.1,8,Regular
+TC-21145,Theresa Coyne,1038.26,1,265.53,259.57,8,Regular
+MK-18160,Mike Kennedy,1031.6,4,227.83,93.78,8,Regular
+TH-21235,Tiffany House,1022.2,8,92.73,78.63,8,Regular
+SW-20350,Sean Wendt,1019.04,3,95.84,169.84,8,Regular
+LS-17200,Luke Schmidt,1010.26,6,244.2,72.16,8,Regular
+RB-19330,Randy Bradley,1008.2,2,-164.41,168.03,8,Regular
+LS-17245,Lynn Smith,1008.14,6,348.36,84.01,8,Regular
+BG-11740,Bruce Geld,1006.36,6,119.35,143.77,8,Regular
+VP-21730,Victor Preis,993.9,3,205.39,198.78,8,Regular
+KB-16600,Ken Brennan,983.92,7,293.55,109.32,8,Regular
+BP-11050,Barry Pond,983.42,5,209.78,140.49,8,Regular
+TS-21340,Toby Swindell,974.78,5,-184.98,81.23,8,Regular
+RD-19930,Russell D'Ascenzo,970.94,4,35.06,97.09,8,Regular
+AB-10150,Aimee Bixby,966.71,5,313.66,80.56,8,Regular
+RC-19825,Roy Collins,966.41,6,63.99,96.64,8,Regular
+SS-20875,Sung Shariari,964.64,5,-75.59,64.31,8,Regular
+JH-15910,Jonathan Howell,959.48,7,-13.55,106.61,8,Regular
+JF-15295,Jason Fortune-,955.12,5,97.29,68.22,9,Regular
+RP-19270,Rachel Payne,954.65,4,59.54,79.55,9,Regular
+BS-11800,Bryan Spruell,949.43,2,194.05,118.68,9,Regular
+RF-19840,Roy FranzÃ¶sisch,945.22,8,280.03,85.93,9,Regular
+EB-13930,Eric Barreto,944.6,5,0.6,134.94,9,Regular
+MF-17665,Maureen Fritzler,937.04,5,-341.53,117.13,9,Regular
+EM-13960,Eric Murdock,933.7,5,102.3,155.62,9,Regular
+AC-10420,Alyssa Crouse,925.8,3,-62.13,185.16,9,Regular
+EH-14185,Evan Henry,923.88,6,242.11,115.49,9,Regular
+MO-17500,Mary O'Rourke,922.49,4,59.36,184.5,9,Regular
+AB-10255,Alejandro Ballentine,914.53,9,264.57,65.32,9,Regular
+KB-16405,Katrina Bavinger,908.82,3,274.3,100.98,9,Regular
+CG-12040,Catherine Glotzbach,904.47,6,86.51,100.5,9,Regular
+SC-20575,Sonia Cooley,902.73,5,100.23,128.96,9,Regular
+JB-15925,Joni Blumstein,900.55,3,-286.98,112.57,9,Regular
+HZ-14950,Henia Zydlo,886.52,5,-130.39,147.75,9,Regular
+AB-10015,Aaron Bergman,886.16,3,129.35,147.69,9,Regular
+RC-19960,Ryan Crowe,885.75,6,10.56,80.52,9,Regular
+CS-12130,Chad Sievert,884.64,4,143.83,126.38,9,Regular
+HE-14800,Harold Engle,883.53,4,274.4,80.32,9,Regular
+SK-19990,Sally Knutson,883.41,3,168.79,176.68,9,Regular
+RE-19450,Richard Eichhorn,876.7,5,209.23,97.41,9,Regular
+JM-15655,Jim Mitchum,864.95,5,117.2,72.08,9,Regular
+JR-15700,Jocasta Rupert,863.88,1,107.99,863.88,9,Regular
+AF-10885,Art Foster,861.57,4,-163.12,123.08,9,Regular
+JC-16105,Julie Creighton,858.58,5,201.6,95.4,9,Regular
+MS-17980,Michael Stewart,855.12,6,55.23,77.74,9,Regular
+VF-21715,Vicky Freymann,847.94,5,-96.28,77.09,9,Regular
+VG-21790,Vivek Gonzalez,846.01,6,143.63,105.75,9,Regular
+CS-12175,Charles Sheldon,844.46,5,113.14,105.56,9,Regular
+TB-21355,Todd Boyes,834.33,5,268.97,64.18,9,Regular
+AS-10630,Ann Steele,833.4,7,136.49,69.45,9,Regular
+EH-13990,Erica Hackney,825.95,6,150.38,103.24,9,Regular
+TB-21190,Thomas Brumley,816.17,4,179.0,204.04,9,Regular
+AM-10360,Alice McCarthy,814.01,5,194.99,67.83,9,Regular
+BM-11575,Brendan Murry,808.16,6,95.58,80.82,9,Regular
+DK-13150,David Kendrick,797.83,2,249.94,159.57,9,Regular
+MC-17635,Matthew Clasen,795.15,4,-247.94,99.39,9,Regular
+BF-11275,Beth Fritzler,791.99,3,25.87,198.0,9,Regular
+HG-14845,Harry Greene,785.63,5,147.0,78.56,9,Regular
+MG-17890,Michael Granlund,776.38,9,171.74,59.72,9,Regular
+MM-18280,Muhammed MacIntyre,775.41,9,58.89,64.62,9,Regular
+SF-20065,Sandra Flanagan,763.55,7,228.16,84.84,9,Regular
+SW-20755,Steven Ward,758.7,2,68.24,94.84,9,Regular
+LP-17080,Liz Pelletier,756.61,4,110.78,84.07,9,Regular
+Dl-13600,Dorris liebe,755.6,5,175.24,125.93,9,Regular
+IG-15085,Ivan Gibson,744.57,4,320.5,106.37,9,Regular
+BB-10990,Barry Blumstein,744.34,5,11.58,93.04,9,Regular
+TC-21535,Tracy Collins,742.56,7,217.93,74.26,9,Regular
+ML-18040,Michelle Lonsdale,742.08,3,138.72,185.52,9,Regular
+RH-19555,Ritsa Hightower,740.38,2,0.31,246.79,9,Regular
+PB-18805,Patrick Bzostek,740.36,3,229.23,74.04,9,Regular
+AH-10585,Angele Hood,738.5,4,83.96,147.7,9,Regular
+HM-14980,Henry MacAllister,736.28,4,117.28,105.18,9,Regular
+PH-18790,Patricia Hirasaki,729.65,1,47.89,364.82,9,Regular
+PA-19060,Pete Armstrong,729.41,6,225.86,104.2,9,Regular
+JJ-15445,Jennifer Jackson,709.18,5,200.56,118.2,9,Regular
+JD-16060,Julia Dunbar,695.44,3,111.11,115.91,9,Regular
+PB-19105,Peter BÃ¼hler,688.32,4,218.16,137.66,9,Regular
+EH-13945,Eric Hoffmann,684.17,8,53.54,40.25,9,Regular
+TR-21325,Toby Ritter,675.94,5,220.36,96.56,9,Regular
+AG-10330,Alex Grayson,660.97,5,-5.14,73.44,9,Regular
+BK-11260,Berenike Kampe,659.14,6,-63.76,41.2,9,Regular
+BD-11770,Bryan Davis,658.47,6,141.27,65.85,9,Regular
+AC-10660,Anna Chung,657.32,5,-28.7,109.55,9,Regular
+AW-10840,Anthony Witt,649.38,4,65.77,81.17,9,Regular
+LO-17170,Lori Olson,644.35,5,150.17,71.59,9,Regular
+JB-16000,Joy Bell-,644.12,7,126.76,92.02,9,Regular
+CD-11980,Carol Darley,639.77,3,-206.72,106.63,9,Regular
+MR-17545,Mathew Reese,639.18,4,162.94,106.53,9,Regular
+AJ-10960,Astrea Jones,629.25,3,60.43,125.85,9,Regular
+RR-19315,Ralph Ritter,615.93,2,-73.84,153.98,9,Regular
+SS-20515,Shirley Schmidt,613.4,3,199.93,102.23,9,Regular
+BT-11440,Bobby Trafton,603.88,4,-77.53,86.27,9,Regular
+BF-10975,Barbara Fisher,599.8,7,227.44,46.14,9,Regular
+MZ-17335,Maria Zettner,593.61,4,85.02,98.93,9,Regular
+DL-13330,Denise Leinenbach,585.02,4,222.68,73.13,9,Regular
+AS-10240,Alan Shonely,584.61,7,33.72,44.97,9,Regular
+BD-11635,Brian Derr,582.65,3,141.53,116.53,9,Regular
+NK-18490,Neil Knudson,572.05,7,121.22,52.0,10,Regular
+CM-11935,Carlos Meador,565.39,2,-43.73,141.35,10,Regular
+CS-12460,Chuck Sachs,550.64,2,156.26,91.77,10,Regular
+CS-11860,Cari Schnelling,537.63,6,105.83,76.8,10,Regular
+JH-15820,John Huston,528.91,6,26.08,66.11,10,Regular
+RB-19570,Rob Beeghly,528.55,5,76.89,58.73,10,Regular
+AY-10555,Andy Yotov,497.01,4,103.35,49.7,10,Regular
+CR-12625,Corey Roper,475.9,3,144.76,118.98,10,Regular
+MS-17530,MaryBeth Skach,475.66,4,84.03,67.95,10,Regular
+JS-15940,Joni Sundaresam,469.17,5,-327.93,58.65,10,Regular
+EC-14050,Erin Creighton,461.91,5,96.43,65.99,10,Regular
+KM-16660,Khloe Miller,453.54,5,91.14,50.39,10,Regular
+KW-16570,Kelly Williams,449.1,4,107.93,89.82,10,Regular
+TT-21265,Tim Taslimi,439.5,3,93.92,146.5,10,Regular
+ST-20530,Shui Tom,433.34,7,84.44,36.11,10,Regular
+VG-21805,Vivek Grady,427.37,5,-52.33,71.23,10,Regular
+SS-20590,Sonia Sunley,418.49,6,135.54,46.5,10,Regular
+BT-11485,Brad Thomas,415.2,2,126.87,138.4,10,Regular
+MH-17440,Mark Haberlin,400.02,4,61.43,44.45,10,Regular
+BW-11065,Barry Weirich,385.52,3,-58.29,128.51,10,Regular
+JD-16015,Joy Daniels,385.43,6,26.76,35.04,10,Regular
+JK-15325,Jason Klamczynski,383.81,3,55.33,95.95,10,Regular
+VM-21835,Vivian Mathis,380.69,5,116.64,47.59,10,Regular
+NF-18475,Neil FranzÃ¶sisch,377.16,4,85.93,94.29,10,Regular
+MS-17830,Melanie Seite,370.35,4,19.43,74.07,10,Regular
+LS-17230,Lycoris Saunders,368.88,3,39.2,61.48,10,Regular
+AG-10300,Aleksandra Gannaway,367.55,4,59.29,73.51,10,Regular
+EM-14200,Evan Minnotte,366.82,3,21.77,91.71,10,Regular
+HJ-14875,Heather Jas,358.1,5,98.65,59.68,10,Regular
+DW-13540,Don Weiss,344.08,5,69.67,38.23,10,Regular
+LT-16765,Larry Tron,329.88,3,59.04,109.96,10,Regular
+BD-11560,Brendan Dodson,320.54,2,116.71,80.14,10,Regular
+LH-17020,Lisa Hazard,318.24,4,-242.74,53.04,10,Regular
+JH-15430,Jennifer Halladay,309.28,4,-24.08,44.18,10,Regular
+JM-15580,Jill Matthias,303.95,5,113.12,43.42,10,Regular
+CM-12445,Chuck Magee,287.99,3,64.43,32.0,10,Regular
+LH-16750,Larry Hughes,287.43,3,12.63,95.81,10,Regular
+SC-20845,Sung Chung,280.63,2,31.18,70.16,10,Regular
+SC-20800,Stuart Calhoun,279.26,4,51.83,55.85,10,Regular
+NB-18580,Nicole Brennan,273.87,2,24.79,136.94,10,Regular
+BF-11080,Bart Folk,272.95,3,110.93,45.49,10,Regular
+DD-13570,Dorothy Dickinson,269.54,6,36.43,29.95,10,Regular
+BN-11470,Brad Norvell,265.3,4,36.61,44.22,10,Regular
+AR-10510,Andrew Roberts,264.86,5,43.67,37.84,10,Regular
+HD-14785,Harold Dahlen,251.36,3,-135.88,35.91,10,Regular
+SM-20005,Sally Matthias,244.49,4,-26.59,40.75,10,Regular
+PL-18925,Paul Lucas,239.48,5,-0.75,29.94,10,Regular
+GP-14740,Guy Phonely,236.53,2,31.84,47.31,10,Regular
+EM-14065,Erin Mull,228.99,4,40.15,38.17,10,Regular
+GT-14755,Guy Thornton,226.44,4,-6.14,32.35,10,Regular
+RB-19645,Robert Barroso,221.08,5,72.68,31.58,10,Regular
+HH-15010,Hilary Holden,218.67,2,86.73,36.44,10,Regular
+AG-10390,Allen Goldenen,200.95,5,69.28,25.12,10,Regular
+JJ-15760,Joel Jenkins,195.0,2,34.45,65.0,10,Regular
+AG-10765,Anthony Garverick,170.58,4,-8.43,34.12,10,Regular
+ML-18265,Muhammed Lee,162.23,2,42.66,54.08,10,Regular
+AO-10810,Anthony O'Donnell,161.28,1,12.1,161.28,10,Regular
+PT-19090,Pete Takahito,160.57,4,-20.05,22.94,10,Regular
+DA-13450,Dianna Arnett,156.76,4,56.79,19.6,10,Regular
+MO-17950,Michael Oakman,154.29,2,-82.01,38.57,10,Regular
+GH-14665,Greg Hansen,146.94,2,-5.81,48.98,10,Regular
+PB-19210,Phillip Breyer,132.74,2,21.9,66.37,10,Regular
+BO-11425,Bobby Odegard,130.83,2,59.45,65.42,10,Regular
+EL-13735,Ed Ludwig,124.28,2,27.12,62.14,10,Regular
+CC-12550,Clay Cheatham,113.83,3,33.87,28.46,10,Regular
+RM-19750,Roland Murray,98.35,1,28.69,49.18,10,Regular
+KS-16300,Karen Seio,88.47,3,0.11,22.12,10,Regular
+AR-10570,Anemone Ratner,88.15,1,32.63,44.08,10,Regular
+FW-14395,Fred Wasserman,79.75,3,23.49,26.58,10,Regular
+JC-15340,Jasper Cacioppo,71.26,4,-0.36,17.82,10,Regular
+AS-10135,Adrian Shami,58.82,2,21.85,19.61,10,Regular
+LB-16735,Larry Blacks,50.19,3,18.65,16.73,10,Regular
+RE-19405,Ricardo Emerson,48.36,1,6.05,48.36,10,Regular
+SG-20890,Susan Gilcrest,47.95,3,-3.71,9.59,10,Regular
+RS-19870,Roy Skaria,22.33,2,9.58,7.44,10,Regular
+MG-18205,Mitch Gastineau,16.74,1,-1.25,8.37,10,Regular
+CJ-11875,Carl Jackson,16.52,1,1.65,16.52,10,Regular
+LD-16855,Lela Donovan,5.3,1,0.46,5.3,10,Regular
+TS-21085,Thais Sissman,4.83,2,-3.32,2.42,10,Regular

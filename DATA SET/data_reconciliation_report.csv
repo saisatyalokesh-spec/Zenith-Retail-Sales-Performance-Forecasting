@@ -1,0 +1,5 @@
+Metric,SQL Value,Power BI Value,Status
+Order Count,"9,994","9,994",PASS
+Total Revenue,"$2,297,200.86","$2,297,200.86",PASS
+Total Profit,"$286,397.02","$286,397.02",PASS
+Unique Customers,793,793,PASS
